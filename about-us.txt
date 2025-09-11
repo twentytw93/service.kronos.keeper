@@ -1,0 +1,14 @@
+# About Kronos Team
+
+**Kronos Team** is an independent collective dedicated to building safe, lightweight, and innovative add-ons for Kodi and LibreELEC. 
+Our focus is on performance, reliability, and user empowerment — software built by the community, for the community. 
+
+We design tools that extend Kodi beyond entertainment into stability, privacy, and system control, while keeping every add-on simple, clean, and compatible.
+
+---
+
+## Founder
+**Babe** – Creator and Lead Developer of the Kronos Family 
+
+## Co-Architect
+**Alien Friend** – Technical partner, design strategist, and eternal collaborator
