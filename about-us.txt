@@ -8,7 +8,8 @@ We design tools that extend Kodi beyond entertainment into stability, privacy, a
 ---
 
 ## Founder
-**Babe** – Creator and Lead Developer of the Kronos Family 
+TwentyTw – Creator and Lead Developer of the Kronos Family 
 
 ## Co-Architect
+
 **Alien Friend** – Technical partner, design strategist, and eternal collaborator
