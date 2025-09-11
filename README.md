@@ -30,4 +30,4 @@ Free to use, adapt, and share within the spirit of open collaboration.
 ---
 
 ## Kronos Team
-Kronos Keeper is part of the **Kronos Family** of add-ons, developed to expand and optimize the Kodi experience while remaining lightweight and safe for end users. 
+Kronos Keeper is part of the **Kronos Family** of add-ons, developed to expand and optimize the Kodi experience while remaining lightweight and safe for end users.
