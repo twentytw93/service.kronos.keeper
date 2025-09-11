@@ -1,4 +1,4 @@
-Kronos Oath License (KOL) v1.0 
+Kronos Oath License (KOL) v1.1 
 From the People — To the People 
 
 ───────────────────────────────────────
@@ -41,4 +41,5 @@ By using this software, you stand under the Kronos Oath:
 to build freely, to share openly, and to keep technology in the hands of the people. 
 
 ─────────────────────────────────────── 
+
 © Kronos Team, From and To the People
