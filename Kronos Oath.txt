@@ -1,0 +1,44 @@
+Kronos Oath License (KOL) v1.0 
+From the People — To the People 
+
+───────────────────────────────────────
+
+Preamble
+--------
+The Kronos Team builds software, art, and ideas for everyone. 
+We reject gatekeeping, corporate overreach, and hidden strings. 
+This work is given under the Kronos Oath: free to use, free to share, free to improve — but never to exploit against the people.
+
+The Oath
+--------
+1. **Freedom to Use** 
+   You may use this software for personal, educational, or commercial purposes, without limitation. 
+
+2. **Freedom to Share** 
+   You may copy, distribute, and make this software available in any form, provided the Oath and this license remain intact. 
+
+3. **Freedom to Improve** 
+   You may modify, adapt, or build upon this software. 
+   Derivative works must keep this license and credit the Kronos Team. 
+
+4. **Respect the People** 
+   You may not use this software to: 
+   - enable surveillance, censorship, or discrimination, 
+   - harm vulnerable communities, 
+   - lock it away behind DRM or proprietary restrictions. 
+
+5. **Return to the People** 
+   Improvements, fixes, and forks are encouraged to be shared back — not as a demand, but as part of the Oath.
+
+Warranty
+--------
+This software is provided "as is", without warranty of any kind. 
+The Kronos Team and contributors are not liable for any damages arising from its use.
+
+Closing
+-------
+By using this software, you stand under the Kronos Oath: 
+to build freely, to share openly, and to keep technology in the hands of the people. 
+
+─────────────────────────────────────── 
+© Kronos Team, From and To the People
