@@ -1,0 +1,5 @@
+<settings>
+	<category label="Schedule Time Options">
+		<setting id="scan_interval" type="enum" label="Scan Interval" values="Weekly|Monthly" default="0" />
+	</category>
+</settings>
